@@ -1,16 +1,14 @@
-# M920 · Unsorted
+# M920 · Renaissance
 
 Ward-Beck Systems M920, 1994|27. Wiki page: [M920 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M920.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
 | [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 10 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 4 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 1 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 8 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 3 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 18 |
 
 ## KiCad
@@ -23,12 +21,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [PCB M920TMP - M920](KICAD/PCB%20M920TMP%20-%20M920)
 - [PCB M920WORK - M920](KICAD/PCB%20M920WORK%20-%20M920)
 - [PCB M920WRK - M920](KICAD/PCB%20M920WRK%20-%20M920)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [1994 - M920 - #ESP_OUT.txt](SOFTWARE/1994%20-%20M920%20-%20%23ESP_OUT.txt)
-- [index.html](SOFTWARE/index.html)
 
 ## 3-D model
 
