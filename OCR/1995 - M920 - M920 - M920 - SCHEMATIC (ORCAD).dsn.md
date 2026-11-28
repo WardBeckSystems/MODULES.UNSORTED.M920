@@ -1,5 +1,5 @@
 # 1995 - M920 - M920 - M920 - SCHEMATIC (ORCAD).dsn
-Wiki page: [M920](../../../../PAGES/M920.md)
+Wiki page: [M920](../)
 
 
 - **Year:** 1995 (found in this file: "March 8, 1995")

@@ -1,5 +1,5 @@
 # 1996 - M920 - M920 - FM920 - DRAWING (AUTOCAD).dwg
-Wiki page: [M920](../../../../PAGES/M920.md)
+Wiki page: [M920](../)
 
 
 - **Year:** 1996 (original file date 1996-06-11)

@@ -1,5 +1,5 @@
 # 1994 - M920 - FN5 '5TH PART FIELD' - DOCUMENT.docx
-Wiki page: [M920](../../../../PAGES/M920.md)
+Wiki page: [M920](../)
 
 
 - **Year:** 1994 (module estimate (labelled))

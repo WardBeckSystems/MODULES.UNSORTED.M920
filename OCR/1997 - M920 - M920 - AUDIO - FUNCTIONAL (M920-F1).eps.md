@@ -1,5 +1,5 @@
 # 1997 - M920 - M920 - AUDIO - FUNCTIONAL (M920-F1).eps
-Wiki page: [M920](../../../../PAGES/M920.md)
+Wiki page: [M920](../)
 
 
 - **Year:** 1997 (original file date 1997-12-03)

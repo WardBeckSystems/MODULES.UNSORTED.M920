@@ -1,5 +1,5 @@
 # 1996 - M920 - M920 - M920WORK - DRAWING (DXF).dxf
-Wiki page: [M920](../../../../PAGES/M920.md)
+Wiki page: [M920](../)
 
 
 - **Year:** 1996 (original file date 1996-12-06)
