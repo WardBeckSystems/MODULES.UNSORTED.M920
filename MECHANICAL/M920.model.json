@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M920",
- "repo": "MODULES.UNSORTED.M920",
+ "repo": "MODULES.RENAISSANCE.M920",
  "title": "M920",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",

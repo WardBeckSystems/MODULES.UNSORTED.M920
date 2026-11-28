@@ -15,7 +15,7 @@ Wiki page: [M920](../../../../PAGES/M920.md)
 
 ```json
 {
- "file": "Modules/UNSORTED/M920/SCHEMATICS/1997 - M920 - M920 - AUDIO - FUNCTIONAL (M920-F1).eps",
+ "file": "Modules/RENAISSANCE/M920/SCHEMATICS/1997 - M920 - M920 - AUDIO - FUNCTIONAL (M920-F1).eps",
  "sha256": "7d6da3565f9bea6726d702271e15aab46465147232b2900374568fdf455ba5ff",
  "kind": "module",
  "models": [

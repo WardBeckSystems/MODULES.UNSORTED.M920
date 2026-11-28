@@ -983,7 +983,7 @@ ExportBlocks Directory
 
 ```json
 {
- "file": "Modules/UNSORTED/M920/SCHEMATICS/1995 - M920 - M920 - M920 - SCHEMATIC (ORCAD).dsn",
+ "file": "Modules/RENAISSANCE/M920/SCHEMATICS/1995 - M920 - M920 - M920 - SCHEMATIC (ORCAD).dsn",
  "sha256": "9cc37ea9938e9300857402e7e9667beb56ba9646fa86a600b67718088446ea8b",
  "kind": "module",
  "models": [

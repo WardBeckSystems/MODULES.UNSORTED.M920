@@ -131,7 +131,7 @@ C32
 
 ```json
 {
- "file": "Modules/UNSORTED/M920/SCHEMATICS/1996 - M920 - M920 - M920WORK - DRAWING (DXF).dxf",
+ "file": "Modules/RENAISSANCE/M920/SCHEMATICS/1996 - M920 - M920 - M920WORK - DRAWING (DXF).dxf",
  "sha256": "e128cb87864591cd5873e8b6e99d843fd5b248e05d3665bd2b12491a6051c1e3",
  "kind": "module",
  "models": [
